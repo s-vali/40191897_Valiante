@@ -1,0 +1,36 @@
+Consider Oddonacci Linear...
+Oddonnacci(0) = 0 ... execution time: 190025458 ns
+Oddonnacci(5) = 5 ... execution time: 30379 ns
+Oddonnacci(10) = 105 ... execution time: 19919 ns
+Oddonnacci(15) = 2209 ... execution time: 20313 ns
+Oddonnacci(20) = 46499 ... execution time: 21758 ns
+Oddonnacci(25) = 978793 ... execution time: 22319 ns
+Oddonnacci(30) = 20603361 ... execution time: 23987 ns
+Oddonnacci(35) = 433695873 ... execution time: 27473 ns
+Oddonnacci(40) = 9129195487 ... execution time: 27259 ns
+Oddonnacci(45) = 192167404461 ... execution time: 30421 ns
+Oddonnacci(50) = 4045078385041 ... execution time: 56495 ns
+Oddonnacci(55) = 85147942685809 ... execution time: 31721 ns
+Oddonnacci(60) = 1792344042191491 ... execution time: 32961 ns
+Oddonnacci(65) = 37728417907092161 ... execution time: 38962 ns
+Oddonnacci(70) = 794174268033812681 ... execution time: 44839 ns
+Oddonnacci(75) = -1729563683050201663 ... execution time: 47599 ns
+Oddonnacci(80) = 1404553489305773151 ... execution time: 23736 ns
+Oddonnacci(85) = -8333254287014256043 ... execution time: 216523 ns
+Oddonnacci(90) = 9144090516051710745 ... execution time: 23784 ns
+Oddonnacci(95) = 629759302281926593 ... execution time: 37020 ns
+Oddonnacci(100) = -4410962496751638461 ... execution time: 29094 ns
+
+----------------------------------------------
+
+Consider Oddonacci Exponential...
+Oddonnacci(0) = 0 ... execution time: 21759 ns
+Oddonnacci(5) = 5 ... execution time: 20546 ns
+Oddonnacci(10) = 105 ... execution time: 35729 ns
+Oddonnacci(15) = 2209 ... execution time: 405100 ns
+Oddonnacci(20) = 46499 ... execution time: 737430 ns
+Oddonnacci(25) = 978793 ... execution time: 6630507 ns
+Oddonnacci(30) = 20603361 ... execution time: 92033591 ns
+Oddonnacci(35) = 433695873 ... execution time: 2847304037 ns
+Oddonnacci(40) = 9129195487 ... execution time: 60048123685 ns
+Oddonnacci(45) = 192167404461 ... execution time: 1054596590696 ns
