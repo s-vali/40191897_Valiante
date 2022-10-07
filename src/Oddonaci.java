@@ -31,7 +31,7 @@ public class Oddonaci {
 			else if(nb <= 3) //base case : base numbers, everything adds from here
 				return 1;
 			else //recursive case
-				return oddExponential(nb - 1) + oddExponential(nb - 2) + oddExponential(nb - 3);			
+				return oddExponential(nb-1) + oddExponential(nb-2) + oddExponential(nb-3);			
 		}
 		
 		/**
