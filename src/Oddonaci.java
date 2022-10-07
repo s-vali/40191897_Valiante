@@ -16,7 +16,7 @@ public class Oddonaci {
 		 * Recursive exponential method for calculating the oddonacci sequence. The method invokes 
 		 * three method calls to itself, making its time complexity n^3. The base cases consider
 		 * when the method might be called with a number = 0, and when the number used to call the
-		 * function reduces to >= 3. In such a case, given that the starting clause for the oddonacci sequence
+		 * function reduces to <= 3. In such a case, given that the starting clause for the oddonacci sequence
 		 * is three 1's, the base case will return three 1's to the previous recursive calls. The recursive 
 		 * case calls the previous oddonacci number by one place, by two places and by three places 
 		 * and returns their sum. In such a way, oddonacci is calculated. 
