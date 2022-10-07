@@ -36,7 +36,7 @@ public class Oddonaci {
 		
 		/**
 		 * Recursive linear method for calculating oddonacci, thus the time complexity is n. 
-		 * Considers a base case where the input to the function is 0 and when the input reaches 
+		 * Considers a base case where the input to the function is 1 and when the input reaches 
 		 * one before it, thus the absolute start of the oddonacci sequence. In such a case, 
 		 * given that the starting cases to oddonacci sequence are always three 1's (predetermined), the method 
 		 * will return three 1's. Otherwise, every other case is calculated. The function
